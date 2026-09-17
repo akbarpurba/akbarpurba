@@ -16,13 +16,14 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github: ${{ github.repository_owner }}
+          github_user_name: akbarpurba
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             profile/snake.svg
             profile/snake-dark.svg?palette=github-dark
 
-      - name: Push Snake
+      - name: Commit Snake
         uses: EndBug/add-and-commit@v9
         with:
-          message: "chore: update snake contribution"
+          message: "chore: update contribution snake"
           add: "profile/"
