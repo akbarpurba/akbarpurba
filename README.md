@@ -89,11 +89,11 @@ I enjoy building practical digital solutions, exploring new technologies, and de
 
 ---
 
-## GitHub Trophies
+<h2 align="center">GitHub Trophies</h2>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=akbarpurba&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
+    src="./profile/trophy.svg"
     width="100%"
     alt="GitHub Trophies"
   />
