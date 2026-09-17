@@ -42,7 +42,7 @@ I enjoy building practical digital solutions, exploring new technologies, and de
 
 | Project                           | Description                                                                                                                            |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **SIAKAD MUSDA**                  | Web-based academic information system for managing students, teachers, classes, schedules, attendance, assignments, exams, and grades. |
+| **SIAKAD SEKOLAH**                  | Web-based academic information system for managing students, teachers, classes, schedules, attendance, assignments, exams, and grades. |
 | **Library Management System**     | Library system for managing administrators, members, books, and borrowing transactions.                                                |
 | **Academic Chatbot**              | Academic chatbot that provides campus information, major recommendations, and assistance with SIAKAD issues.                           |
 | **Pixel Adjust**                  | Image analysis system for adjusting brightness and contrast, downloading results, and analyzing pixel information.                     |
